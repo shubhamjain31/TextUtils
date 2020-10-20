@@ -1,8 +1,8 @@
 # TextUtils  
 
-It is a simple django project or website in which we can Analyze text
+It is a simple django project or website in which we can Analyze text.
 
-A tool for Analyzing text data using django. Here raw text is given to the website and you we will get the filtered text as per your needs. It can be useful for following utility:
+A tool for Analyzing text data using django. Here raw text is given to the website and you we will get the ***filtered text as per your needs***. It can be useful for following utility:
 
 1) Remove Punctuations
 1) UpperCase
